@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Download the zip file of the package you want inside the folder "zip_files"
+1. Download the zip file of the package you want
 2. On AWS lambda, go to layers and click on "create layer"
 3. Upload the zip file, specify the runtime and click create
 4. Go to your lambda function and click "Add a layer" to add the layer you created
