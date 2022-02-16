@@ -1,4 +1,4 @@
-# Python packages for AWS Lambda Layers
+# Python libraries for AWS Lambda Layers
 
 ## How to use
 
